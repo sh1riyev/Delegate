@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{3D9E8220-E63B-4A1E-8656-9CA7E5EBB820}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Delegate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Delegate/Controllers/BookController.cs">
+    <Files>
+      <File FileName="Delegate/Program.cs" />
+      <File FileName="Delegate/Datas/PersonDbContext.cs" />
+      <File FileName="Delegate/Models/Person.cs" />
+      <File FileName="Delegate/Services/IPersonService.cs" />
+      <File FileName="Delegate/Services/PersonService.cs" />
+      <File FileName="Delegate/Controllers/PersonController.cs" />
+      <File FileName="Delegate/Models/Book.cs" />
+      <File FileName="Delegate/Datas/BookLDbContext.cs" />
+      <File FileName="Delegate/Services/BookService.cs" />
+      <File FileName="Delegate/Services/IBookService.cs" />
+      <File FileName="Delegate/Controllers/BookController.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Delegate" expanded="True">
+            <Node name="Delegate" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="BookController.cs" selected="True" />
+              </Node>
+              <Node name="Datas" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
